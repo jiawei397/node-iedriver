@@ -45,6 +45,8 @@ IEDriver is not a library for NodeJS.
 This is an _NPM wrapper_ and can be used to conveniently make IEDriver available
 It is not a Node JS wrapper.
 
+I have to use taobao mirror to download iedriver.
+
 Contributing
 ------------
 

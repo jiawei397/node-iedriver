@@ -10,7 +10,7 @@
   "homepage": "https://github.com/barretts/node-iedriver",
   "repository": {
     "type": "git",
-    "url": "git://github.com/barretts/node-iedriver.git"
+    "url": "git@github.com:jiawei397/node-iedriver.git"
   },
   "license": "Apache-2.0",
   "author": {
